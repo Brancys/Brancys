@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brancys</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **cryptography**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **brancys019@hotmail.com**
 
