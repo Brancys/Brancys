@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brancys</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-- 🌱 I’m currently learning movile development with **Flutter**
+- 🌱 I’m currently learning **C#** for backend development
 
-- 📫 How to reach me **brancys019@hotmail.com**
+- 📫 How to reach me **brancysb@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
