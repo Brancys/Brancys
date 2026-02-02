@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brancys</h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+<h3 align="center">A passionate fullstack developer from Colombia</h3>
 
-- 🌱 I’m currently learning **.NET** for backend development.
+- 🌱 I’m currently learning **Go** for backend development.
 
 - 📫 How to reach me **brancysb@outlook.com**
 
